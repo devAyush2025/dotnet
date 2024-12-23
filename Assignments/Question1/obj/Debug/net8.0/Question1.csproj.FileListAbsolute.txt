@@ -1,0 +1,14 @@
+C:\Users\Group025\Desktop\DJ\dotnet\Assignments\Question1\bin\Debug\net8.0\Question1.exe
+C:\Users\Group025\Desktop\DJ\dotnet\Assignments\Question1\bin\Debug\net8.0\Question1.deps.json
+C:\Users\Group025\Desktop\DJ\dotnet\Assignments\Question1\bin\Debug\net8.0\Question1.runtimeconfig.json
+C:\Users\Group025\Desktop\DJ\dotnet\Assignments\Question1\bin\Debug\net8.0\Question1.dll
+C:\Users\Group025\Desktop\DJ\dotnet\Assignments\Question1\bin\Debug\net8.0\Question1.pdb
+C:\Users\Group025\Desktop\DJ\dotnet\Assignments\Question1\obj\Debug\net8.0\Question1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Group025\Desktop\DJ\dotnet\Assignments\Question1\obj\Debug\net8.0\Question1.AssemblyInfoInputs.cache
+C:\Users\Group025\Desktop\DJ\dotnet\Assignments\Question1\obj\Debug\net8.0\Question1.AssemblyInfo.cs
+C:\Users\Group025\Desktop\DJ\dotnet\Assignments\Question1\obj\Debug\net8.0\Question1.csproj.CoreCompileInputs.cache
+C:\Users\Group025\Desktop\DJ\dotnet\Assignments\Question1\obj\Debug\net8.0\Question1.dll
+C:\Users\Group025\Desktop\DJ\dotnet\Assignments\Question1\obj\Debug\net8.0\refint\Question1.dll
+C:\Users\Group025\Desktop\DJ\dotnet\Assignments\Question1\obj\Debug\net8.0\Question1.pdb
+C:\Users\Group025\Desktop\DJ\dotnet\Assignments\Question1\obj\Debug\net8.0\Question1.genruntimeconfig.cache
+C:\Users\Group025\Desktop\DJ\dotnet\Assignments\Question1\obj\Debug\net8.0\ref\Question1.dll
