@@ -1,0 +1,35 @@
+﻿@using eCommerceApplication.Models;
+@model Product
+
+@{
+    ViewBag.Title = "Product Details!";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="container my-4">
+    <div class="row border rounded shadow-sm p-4">
+        <!-- Product Image Section -->
+        <div class="col-md-5">
+            <img src="@Url.Content(Model.Picture)" alt="@Model.ProductName" class="img-fluid rounded shadow" />
+        </div>
+
+        <!-- Product Details Section -->
+        <div class="col-md-7">
+            <h1 class="h4">@Model.ProductName</h1>
+            <p class="text-muted">@Model.Description</p>
+            <h3 class="text-primary">Price: ₹@Model.UnitPrice</h3>
+            <p class="text-success fw-bold">Discount: @Model.Discount%</p>
+            <p class="text-secondary">Manufactured in: @Model.MadeIn</p>
+            <p class="text-secondary">Warranty: @Model.WarrantyPeriod</p>
+            <p class="text-secondary">Return Policy: @Model.ReturnPolicy</p>
+
+            <!-- Action Buttons -->
+            <div class="mt-4">
+                <button class="btn btn-warning me-2">Add to Cart</button>
+                <button class="btn btn-success text-white">Buy Now</button>
+            </div>
+        </div>
+    </div>
+</div>
